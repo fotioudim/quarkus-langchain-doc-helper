@@ -56,5 +56,5 @@ curl --request POST \
 ## Related Documentation
 
 - LangChain4j OpenAI ([guide](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html)): Provides the basic integration with LangChain4j
-- RAg process [benefits](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- RAG process [benefits](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - Edge-Based Runtime Verification for the Internet of Things [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9411895)
